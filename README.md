@@ -1,4 +1,4 @@
-# Turning-Event-Logs-into-Business-Metrics
+# Turning Event Logs into Business-Metrics
 As a junior analyst at an e-commerce company, I analyzed raw user activity logs to create a conversion funnel, cohort analysis, and retention rates. Using Google Sheets, I cleaned and transformed the data to provide insights into user behavior, helping improve website conversions and customer retention.
 
 --
